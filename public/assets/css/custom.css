@@ -11,10 +11,23 @@ p, h1, h2, h3, h4, h5, h6, footer {
   margin: 10px 0;
 }
 
+h1 {
+  font-size: 2em;
+}
+
 footer {
-  font-size: 10px;
+  font-size: .7em;
   font-weight: 400;
 }
 article {
   margin: 0 17.5%;
+}
+
+#title {
+  margin: .75em;
+  padding:.75em;
+}
+
+#buttons {
+  margin: .75em;
 }
